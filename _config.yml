@@ -1,3 +1,25 @@
-theme: jekyll-theme-modernist
-title: Code Talk
-description: My Notes on Programming and Technology
+title:              Code Labyrinth
+#email:              cavengco@yahoo.com
+description:        Blog on Programming and Technology
+#author:             Start Bootstrap
+baseurl:            "/website"
+url:                "https://cvengco.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    cvengco
+facebook_username:  
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+#google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
