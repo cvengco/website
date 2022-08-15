@@ -1,9 +1,9 @@
 title:              Code Labyrinth
-#email:              cavengco@yahoo.com
 description:        Blog on Programming and Technology
 #author:             Start Bootstrap
 baseurl:            "/website"
 url:                "https://cvengco.github.io"
+theme:              jekyll-theme-clean-blog
 
 # Social Profiles
 twitter_username:   
